@@ -5,7 +5,7 @@
 About 10% Indians suffer from stress, depression or substance use disorders. Few receive care for these problems, especially in rural areas. <br/> 
 We want to address the issue of bringing mental healthcare into Rural MainStream, starting with Acceptability, Availability and Accessibility. <br/> 
 
-<p>We have taken 3 facets around mental wellness , Acceptability through awareness campaigns by NGOs and volunteers, Availability through the deployment of our platform at local health clinics and making initial diagnosis as frictionless as possible and accessibility via e-consultations enabled through local health. Covering these, we aim to achieve a mentally upgraded being in rural india.</p>
+<p>We have taken 3 facets around mental wellness , Acceptability through awareness campaigns by NGOs and volunteers, Availability through the deployment of our platform at local health clinics and making initial diagnosis as frictionless as possible and accessibility via e-consultations enabled through local health. Covering these, we aim to achieve a mentally upgraded being in rural India.</p>
 
 We want to break the stigma around Mental Illness and Well being and to ensure that each individual privileged or under-privileged can ask for the right help
 without any hesitation.
